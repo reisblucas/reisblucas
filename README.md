@@ -2,7 +2,7 @@
 
 ## Lucas B. "neur4l" Reis
 
-![Count Visitors](https://visitor-badge.laobi.icu/badge?page_id=byneur4l.byneur4l)
+<!-- ![Count Visitors](https://visitor-badge.laobi.icu/badge?page_id=byneur4l.byneur4l) -->
 
 ![byneur4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift)
 
