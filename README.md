@@ -17,6 +17,11 @@
 
 🧰 Languages and Tools:
 
+- Javascript
+- Bootstrap
+- React
+- CSS
+
 <!--
 **byneur4l/byneur4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
