@@ -2,18 +2,18 @@
 
 ## Lucas B. "neur4l" Reis
 
-<!-- ![Count Visitors](https://visitor-badge.laobi.icu/badge?page_id=byneur4l.byneur4l) -->
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=byneur4l&theme=blood&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
 
-![byneur4l's GitHub stats](https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift)
+</br>
 
-#### Codewars
-
-![byneur4l's Codewars stats](https://www.codewars.com/users/neur4l/badges/large)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=byneur4l&theme=blood&hide_border=true&date_format=j%20M%5B%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact)
+<div>
+  <div width="500px" style="display: inline_block;">
+    <img style="float: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
+  </div>
+</div>
 
 🧰 Languages and Tools:
 
