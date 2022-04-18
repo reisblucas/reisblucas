@@ -3,8 +3,8 @@
 ## Lucas B. "neur4l" Reis
 
 <div align="center">
-   <img width="425px" src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
-   <img width="425px" src="https://github-readme-streak-stats.herokuapp.com?user=byneur4l&theme=blood&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
+   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=byneur4l&theme=blood&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 </br>
