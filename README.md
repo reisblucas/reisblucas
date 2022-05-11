@@ -23,6 +23,9 @@
   <img src="/gh-icons/react.svg" width="48" height="48">
   <img src="/gh-icons/rtl.png" width="48" height="48">
   <img src="/gh-icons/redux.svg" width="48" height="48">
+  <img src="/gh-icons/docker.svg" width="48" height="48">
+  <img src="/gh-icons/mysql.svg" width="48" height="48">
+  <img src="/gh-icons/nodejs.svg" width="48" height="48">
 </div>
 
 <br/>
