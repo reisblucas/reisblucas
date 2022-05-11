@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning about Node.js ES5 and uses in backend!
 - 🌱 I’m looking for Typescript, Next.js and Tailwind.
 - :e-mail: : <a href="mailto:lucasb.reis@hotmail.com">lucasb.reis@hotmail.com</a>
-- <img src="/gh-icons/linkedin.svg" width="16" height="16"> : [Lucas B. Reis](https://www.linkedin.com/in/reisblucas/)
+- <img src="/gh-icons/linkedin.svg" width="16" height="16"> : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <h3>🧰 Stacks:</h3>
+  <h3>🧰 Tools:</h3>
 </div>
 
 <div align="center">
