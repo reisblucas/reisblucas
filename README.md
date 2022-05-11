@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-## Lucas B. "neur4l" Reis
+### I'm Lucas B. "neur4l" Reis, 23 yo and based in SP - Brazil!
 
+- 💬 I like to talk and study about programming, software, technology, investiments and games!
 - 🔭 I’m currently learning about Node.js ES5 and uses in backend!
 - 🌱 I’m looking for Typescript, Next.js and Tailwind.
 - :e-mail: : <a href="mailto:lucasb.reis@hotmail.com">lucasb.reis@hotmail.com</a>
-- Linkedin : [Lucas B. Reis](https://www.linkedin.com/in/reisblucas/)
+- <img src="/gh-icons/linkedin.svg" width="16" height="16"> : [Lucas B. Reis](https://www.linkedin.com/in/reisblucas/)
 
 <table>
   <tr>
@@ -18,31 +19,27 @@
   </tr>
 </table>
 
-
 </br>
 
-<div>
+<div align="center">
   <div width="500px" style="display: inline_block;">
     <img style="float: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
   </div>
 </div>
 
-🧰 Languages and Tools:
+<div align="center">
+  <h3>🧰 Stacks:</h3>
+</div>
 
-- Javascript
-- Bootstrap
-- React
-- CSS
-
-<!--
-**byneur4l/byneur4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="/gh-icons/git.svg" width="48" height="48">
+  <img src="/gh-icons/github.svg" width="48" height="48">
+  <img src="/gh-icons/html5.svg" width="48" height="48">
+  <img src="/gh-icons/css3.svg" width="48" height="48">
+  <img src="/gh-icons/sass.svg" width="48" height="48">
+  <img src="/gh-icons/javascript.svg" width="48" height="48">
+  <img src="/gh-icons/jest.png" width="48" height="48">
+  <img src="/gh-icons/react.svg" width="48" height="48">
+  <img src="/gh-icons/rtl.png" width="48" height="48">
+  <img src="/gh-icons/redux.svg" width="48" height="48">
+</div>
