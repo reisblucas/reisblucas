@@ -8,6 +8,25 @@
 - :e-mail: : <a href="mailto:lucasb.reis@hotmail.com">lucasb.reis@hotmail.com</a>
 - <img src="/gh-icons/linkedin.svg" width="16" height="16"> : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
 
+<div align="center">
+  <h3>🧰 Tools:</h3>
+</div>
+
+<div align="center">
+  <img src="/gh-icons/git.svg" width="48" height="48">
+  <img src="/gh-icons/github.svg" width="48" height="48">
+  <img src="/gh-icons/html5.svg" width="48" height="48">
+  <img src="/gh-icons/css3.svg" width="48" height="48">
+  <img src="/gh-icons/sass.svg" width="48" height="48">
+  <img src="/gh-icons/javascript.svg" width="48" height="48">
+  <img src="/gh-icons/jest.png" width="48" height="48">
+  <img src="/gh-icons/react.svg" width="48" height="48">
+  <img src="/gh-icons/rtl.png" width="48" height="48">
+  <img src="/gh-icons/redux.svg" width="48" height="48">
+</div>
+
+<br/>
+
 <table>
   <tr>
     <td>
@@ -25,21 +44,4 @@
   <div width="500px" style="display: inline_block;">
     <img style="float: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
   </div>
-</div>
-
-<div align="center">
-  <h3>🧰 Tools:</h3>
-</div>
-
-<div align="center">
-  <img src="/gh-icons/git.svg" width="48" height="48">
-  <img src="/gh-icons/github.svg" width="48" height="48">
-  <img src="/gh-icons/html5.svg" width="48" height="48">
-  <img src="/gh-icons/css3.svg" width="48" height="48">
-  <img src="/gh-icons/sass.svg" width="48" height="48">
-  <img src="/gh-icons/javascript.svg" width="48" height="48">
-  <img src="/gh-icons/jest.png" width="48" height="48">
-  <img src="/gh-icons/react.svg" width="48" height="48">
-  <img src="/gh-icons/rtl.png" width="48" height="48">
-  <img src="/gh-icons/redux.svg" width="48" height="48">
 </div>
