@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Lucas B. "neur4l" Reis, 23 yo and based in SP - Brazil!
+### I'm Lucas B. "neur4l" Reis, 23 yo, based in Sao Paulo - Brazil!
 
 - 💬 I like to talk and study about programming, software, technology, investiments and games!
 - 🔭 I’m currently learning about Node.js ES5 and uses in backend!
