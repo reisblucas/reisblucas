@@ -5,7 +5,7 @@
 - 💬 I like to talk and study about programming, software, technology, investiments and games!
 - 🔭 I’m currently learning about Node.js ES5 and uses in backend!
 - 🌱 I’m looking for Typescript, Next.js and Tailwind.
-- :e-mail: : <a href="mailto:lucasb.reis@hotmail.com">lucasb.reis@hotmail.com</a>
+- :e-mail: : <a href="mailto:reisblcs@gmail.com">reisblcs@gmail.com</a>
 - <img src="/gh-icons/linkedin.svg" width="16" height="16"> : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
 
 <div align="center">
