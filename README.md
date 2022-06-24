@@ -3,8 +3,9 @@
 ### I'm Lucas B. "neur4l" Reis, 23 yo, based in Sao Paulo - Brazil!
 
 - 💬 I like to talk and study about programming, software, technology, investiments and games!
-- 🔭 I’m currently learning about Node.js ES5 and uses in backend!
-- 🌱 I’m looking for Typescript, Next.js and Tailwind.
+- 🌱 Front: I'm learning about Next.JS, TypeScript and Tailwind!
+- 🌱 Back: I’m currently learning about Node.js ES5 and their uses in backend.
+- 🔭 I’m looking for Prisma, Redis and C#.
 - :e-mail: : <a href="mailto:reisblcs@gmail.com">reisblcs@gmail.com</a>
 - <img src="/gh-icons/linkedin.svg" width="16" height="16"> : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
 
