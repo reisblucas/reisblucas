@@ -32,16 +32,16 @@
   <img src="/gh-icons/docker.svg" width="48" height="48">
   <img src="/gh-icons/mysql.svg" width="48" height="48">
   <img src="/gh-icons/nodejs.svg" width="48" height="48">
+  <img src="/gh-icons/nodejs-dark.svg" width="48" height="48">
   <img src="/gh-icons/expressjs.svg" width="48" height="48">
+  <img src="/gh-icons/expressjs-dark.png" width="48" height="48">
   <img src="/gh-icons/sequelize.svg" width="48" height="48">
-  <img src="/gh-icons/prisma-light.svg" width="48" height="48">
   <img src="/gh-icons/prisma-dark.svg" width="48" height="48">
   <img src="/gh-icons/joi.jpg" width="48" height="48">
   <img src="/gh-icons/zod.svg" width="48" height="48">
   <img src="/gh-icons/swagger.svg" width="48" height="48">
   <img src="/gh-icons/supabase.svg" width="48" height="48">
   <img src="/gh-icons/planetscale.png" width="48" height="48">
-  <img src="/gh-icons/planetscale-light.png" width="48" height="48">
   <img src="/gh-icons/heroku.svg" width="48" height="48">
 </div>
 
