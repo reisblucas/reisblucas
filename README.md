@@ -34,7 +34,7 @@
   <img src="/gh-icons/nodejs.svg" width="48" height="48">
   <img src="/gh-icons/expressjs.svg" width="48" height="48">
   <img src="/gh-icons/sequelize.svg" width="48" height="48">
-  <img src="/gh-icons/prisma.svg" width="48" height="48">
+  <img src="/gh-icons/prisma-light.svg" width="48" height="48">
   <img src="/gh-icons/prisma-dark.svg" width="48" height="48">
   <img src="/gh-icons/joi.jpg" width="48" height="48">
   <img src="/gh-icons/zod.svg" width="48" height="48">
