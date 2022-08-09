@@ -10,18 +10,21 @@
 - <img src="/gh-icons/linkedin.svg" width="16" height="16"> : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
 
 <div align="center">
-  <h3>🧰 Tools:</h3>
+  <h3>Language and tools:</h3>
 </div>
 
 <div align="center">
   <img src="/gh-icons/git.svg" width="48" height="48">
   <img src="/gh-icons/github.svg" width="48" height="48">
+  <img src="/gh-icons/vscode-2019.svg" width="48" height="48">
   <img src="/gh-icons/html5.svg" width="48" height="48">
   <img src="/gh-icons/css3.svg" width="48" height="48">
+  <img src="/gh-icons/eslint.svg" width="48" height="48">
   <!---
   <img src="/gh-icons/sass.svg" width="48" height="48">
   --->
   <img src="/gh-icons/javascript.svg" width="48" height="48">
+  <img src="/gh-icons/typescript.svg" width="48" height="48">
   <img src="/gh-icons/jest.png" width="48" height="48">
   <img src="/gh-icons/react.svg" width="48" height="48">
   <img src="/gh-icons/rtl.png" width="48" height="48">
@@ -29,6 +32,15 @@
   <img src="/gh-icons/docker.svg" width="48" height="48">
   <img src="/gh-icons/mysql.svg" width="48" height="48">
   <img src="/gh-icons/nodejs.svg" width="48" height="48">
+  <img src="/gh-icons/expressjs.svg" width="48" height="48">
+  <img src="/gh-icons/sequelize.svg" width="48" height="48">
+  <img src="/gh-icons/prisma.svg" width="48" height="48">
+  <img src="/gh-icons/joi.svg" width="48" height="48">
+  <img src="/gh-icons/zod.svg" width="48" height="48">
+  <img src="/gh-icons/swagger.svg" width="48" height="48">
+  <img src="/gh-icons/supabase.svg" width="48" height="48">
+  <img src="/gh-icons/planetscale.png" width="48" height="48">
+  <img src="/gh-icons/heroku.svg" width="48" height="48">
 </div>
 
 <br/>
