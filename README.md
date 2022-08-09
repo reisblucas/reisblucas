@@ -42,8 +42,8 @@
 </div>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" src="/gh-icons/nodejs-dark.svg" width="48" height="48">
-    <source media="(prefers-color-scheme: light)" src="/gh-icons/nodejs-ligth.svg" width="48" height="48">
+    <source media="(prefers-color-scheme: dark)" src="gh-icons/nodejs-dark.svg" width="48" height="48">
+    <source media="(prefers-color-scheme: light)" src="gh-icons/nodejs-ligth.svg" width="48" height="48">
   </picture>
 
 <br/>
