@@ -22,10 +22,10 @@
   <img src="/gh-icons/javascript.svg" width="48" height="48">
   <img src="/gh-icons/typescript.svg" width="48" height="48">
   <img src="/gh-icons/eslint.svg" width="48" height="48">
-  <img src="/gh-icons/jest.png" width="48" height="48">
   <img src="/gh-icons/react.svg" width="48" height="48">
-  <img src="/gh-icons/rtl.png" width="48" height="48">
   <img src="/gh-icons/redux.svg" width="48" height="48">
+  <img src="/gh-icons/jest.png" width="48" height="48">
+  <img src="/gh-icons/rtl.png" width="48" height="48">
   <img src="/gh-icons/docker.svg" width="48" height="48">
   <img src="/gh-icons/mysql.svg" width="48" height="48">
   <img src="/gh-icons/nodejs-light.svg" width="48" height="48">
