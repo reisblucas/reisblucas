@@ -35,11 +35,12 @@
   <img src="/gh-icons/expressjs.svg" width="48" height="48">
   <img src="/gh-icons/sequelize.svg" width="48" height="48">
   <img src="/gh-icons/prisma.svg" width="48" height="48">
-  <img src="/gh-icons/joi.svg" width="48" height="48">
+  <img src="/gh-icons/joi.jpg" width="48" height="48">
   <img src="/gh-icons/zod.svg" width="48" height="48">
   <img src="/gh-icons/swagger.svg" width="48" height="48">
   <img src="/gh-icons/supabase.svg" width="48" height="48">
   <img src="/gh-icons/planetscale.png" width="48" height="48">
+  <img src="/gh-icons/planetscale-light.png" width="48" height="48">
   <img src="/gh-icons/heroku.svg" width="48" height="48">
 </div>
 
