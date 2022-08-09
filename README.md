@@ -32,10 +32,9 @@
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="/gh-icons/nodejs-dark.svg" width="48" height="48">
       <source media="(prefers-color-scheme: light)" srcset="/gh-icons/nodejs-ligth.svg" width="48" height="48">
-      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-    </picture>
+  </picture>
     
-        <img src="/gh-icons/nodejs-light.svg" width="48" height="48">
+  <img src="/gh-icons/nodejs-light.svg" width="48" height="48">
   <img src="/gh-icons/expressjs-dark.png" width="48" height="48">
   <img src="/gh-icons/sequelize.svg" width="48" height="48">
   <img src="/gh-icons/prisma-dark.svg" width="48" height="48">
