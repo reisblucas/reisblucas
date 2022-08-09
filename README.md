@@ -19,9 +19,9 @@
   <img src="/gh-icons/vscode-2019.svg" width="48" height="48">
   <img src="/gh-icons/html5.svg" width="48" height="48">
   <img src="/gh-icons/css3.svg" width="48" height="48">
-  <img src="/gh-icons/eslint.svg" width="48" height="48">
   <img src="/gh-icons/javascript.svg" width="48" height="48">
   <img src="/gh-icons/typescript.svg" width="48" height="48">
+  <img src="/gh-icons/eslint.svg" width="48" height="48">
   <img src="/gh-icons/jest.png" width="48" height="48">
   <img src="/gh-icons/react.svg" width="48" height="48">
   <img src="/gh-icons/rtl.png" width="48" height="48">
