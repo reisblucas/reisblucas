@@ -28,7 +28,6 @@
   <img src="/gh-icons/redux.svg" width="48" height="48">
   <img src="/gh-icons/docker.svg" width="48" height="48">
   <img src="/gh-icons/mysql.svg" width="48" height="48">
-    
   <img src="/gh-icons/nodejs-light.svg" width="48" height="48">
   <img src="/gh-icons/expressjs-dark.png" width="48" height="48">
   <img src="/gh-icons/sequelize.svg" width="48" height="48">
@@ -40,11 +39,6 @@
   <img src="/gh-icons/planetscale.png" width="48" height="48">
   <img src="/gh-icons/heroku.svg" width="48" height="48">
 </div>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byneur4l/byneur4l/ae0cd62e3f5d64cd075850ff8aa929a89a27df01/gh-icons/nodejs-dark.svg" width="48" height="48">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byneur4l/byneur4l/caaf3134e55655a42835658d652f55335853e3e3/gh-icons/nodejs-light.svg" width="48" height="48">
-  </picture>
 
 <br/>
 
