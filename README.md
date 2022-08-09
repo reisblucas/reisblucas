@@ -20,9 +20,6 @@
   <img src="/gh-icons/html5.svg" width="48" height="48">
   <img src="/gh-icons/css3.svg" width="48" height="48">
   <img src="/gh-icons/eslint.svg" width="48" height="48">
-  <!---
-  <img src="/gh-icons/sass.svg" width="48" height="48">
-  --->
   <img src="/gh-icons/javascript.svg" width="48" height="48">
   <img src="/gh-icons/typescript.svg" width="48" height="48">
   <img src="/gh-icons/jest.png" width="48" height="48">
@@ -31,9 +28,7 @@
   <img src="/gh-icons/redux.svg" width="48" height="48">
   <img src="/gh-icons/docker.svg" width="48" height="48">
   <img src="/gh-icons/mysql.svg" width="48" height="48">
-  <img src="/gh-icons/nodejs.svg" width="48" height="48">
   <img src="/gh-icons/nodejs-dark.svg" width="48" height="48">
-  <img src="/gh-icons/expressjs.svg" width="48" height="48">
   <img src="/gh-icons/expressjs-dark.png" width="48" height="48">
   <img src="/gh-icons/sequelize.svg" width="48" height="48">
   <img src="/gh-icons/prisma-dark.svg" width="48" height="48">
