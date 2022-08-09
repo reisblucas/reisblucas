@@ -42,8 +42,8 @@
 </div>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" src="gh-icons/nodejs-dark.svg" width="48" height="48">
-    <source media="(prefers-color-scheme: light)" src="gh-icons/nodejs-ligth.svg" width="48" height="48">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byneur4l/byneur4l/ae0cd62e3f5d64cd075850ff8aa929a89a27df01/gh-icons/nodejs-dark.svg" width="48" height="48">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byneur4l/byneur4l/caaf3134e55655a42835658d652f55335853e3e3/gh-icons/nodejs-light.svg" width="48" height="48">
   </picture>
 
 <br/>
