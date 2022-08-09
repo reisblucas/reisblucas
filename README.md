@@ -30,7 +30,7 @@
   <img src="/gh-icons/mysql.svg" width="48" height="48">
   
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="/gh-icons/nodejs-dark.svg" width="48" height="48">
+      <source media="(prefers-color-scheme: dark)" src="/gh-icons/nodejs-dark.svg" width="48" height="48">
       <source media="(prefers-color-scheme: light)" srcset="/gh-icons/nodejs-ligth.svg" width="48" height="48">
   </picture>
     
