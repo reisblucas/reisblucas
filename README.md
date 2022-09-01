@@ -6,6 +6,11 @@
 - 🌱 Back: I’m currently learning about OOP, Design Patterns, MongoDB and C#.
 - 🔭 I’m looking for Prisma✅ and Redis.
 - 🚧 Unwind - Thread Generator
+
+<div align="center">
+  <p>Contacts:</p>
+</div>
+
 - Email : <a href="mailto:reisblcs@gmail.com">reisblcs@gmail.com</a>
 - LinkedIn : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
 
