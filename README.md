@@ -8,7 +8,7 @@
 - 🚧 Unwind - Thread Generator
 
 <div align="center">
-  <p>Contacts:</p>
+  <h3>Contacts:</h3>
 </div>
 
 - Email : <a href="mailto:reisblcs@gmail.com">reisblcs@gmail.com</a>
