@@ -1,13 +1,13 @@
 ### Hi there 👋
-
 ### I'm Lucas B. "neural" Reis, 23 yo, based in Sao Paulo - Brazil!
 
 - 💬 I like to talk and study about programming, technology, investiments and games!
 - 🌱 Front: I'm learning about Next.JS, TypeScript and Tailwind!
 - 🌱 Back: I’m currently learning about OOP, Design Patterns, MongoDB and C#.
 - 🔭 I’m looking for Prisma✅ and Redis.
-- :e-mail: : <a href="mailto:reisblcs@gmail.com">reisblcs@gmail.com</a>
-- <img src="/gh-icons/linkedin.svg" width="16" height="16"> : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
+- 🚧 Unwind - Thread Generator
+- Email : <a href="mailto:reisblcs@gmail.com">reisblcs@gmail.com</a>
+- LinkedIn : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
 
 <div align="center">
   <h3>Language and tools:</h3>
