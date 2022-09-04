@@ -5,7 +5,7 @@
 - 🌱 Front: I'm learning about Next.JS, TypeScript and Tailwind!
 - 🌱 Back: I’m currently learning about OOP, Design Patterns, MongoDB and C#.
 - 🔭 I’m looking for Prisma✅ and Redis.
-- 🚧 Unwind - Thread Generator
+- 🚧 Working on: Unwind - Thread Generator
 
 <div align="center">
   <h3>Contacts:</h3>
