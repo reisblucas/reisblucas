@@ -11,8 +11,14 @@
   <h3>Contacts:</h3>
 </div>
 
-- Email : <a href="mailto:reisblcs@gmail.com">reisblcs@gmail.com</a>
-- LinkedIn : <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">Lucas Barbosa dos Reis</a>
+<div align="center">
+    <a href="mailto:reisblcs@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/reisblucas/" target="_blank" rel="noreferrer noopener">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
 
 <div align="center">
   <h3>Language and tools:</h3>
