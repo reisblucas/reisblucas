@@ -62,5 +62,7 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
+<div align="center">
+  <img height="188.57" src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
+</div>
