@@ -62,15 +62,5 @@
 
 <br/>
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
