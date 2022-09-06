@@ -1,5 +1,14 @@
-### Hi there 👋
-### I'm Lucas, 23 yo, based in Sao Paulo - Brazil!
+<div>
+  <h1>Hi there
+    <span>
+      <img width="35" src="/waving-hands.gif" />
+    </span>
+  </h1>
+</div>
+
+<div align="center">
+  <h3>I'm Lucas, 23 yo, based in Sao Paulo - Brazil!</h3>
+</div>
 
 - 💬 I like to talk and study about programming, technology, investiments and games!
 - 🌱 Front: I'm learning about Next.JS, TypeScript and Tailwind!
@@ -54,12 +63,14 @@
 <br/>
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=byneur4l&include_all_commits=true&count_private=tru&show_icons=true&theme=swift" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byneur4l&layout=compact" />
+      </td>
+    </tr>
+  </tbody>
 </table>
