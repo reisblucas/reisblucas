@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1>Hi there
     <span>
       <img width="35" src="/waving-hands.gif" />
