@@ -10,11 +10,13 @@
   <h3>I'm Lucas, 24 yo, based in Sao Paulo - Brazil!</h3>
 </div>
 
-- 💬 I like to talk and study about programming, technology, investiments and games!
-- 🌱 Front: I'm learning about Next.JS, TypeScript and Tailwind!
-- 🌱 Back: I’m currently learning about OOP, Design Patterns, MongoDB and C#.
+- 💬 I like to talk and study about programming, technology, investments and games!
+- 🌱 Front: Building a huge healthtech platform on Brazil and applying knowlegde about tests on practice with Cypress! 🚀
+- 🌱 Back: Started studies on Golang, but paused and focused on Front at the moment!
+<!--
 - 🔭 I’m looking for Prisma✅ and Redis.
 - 🚧 Working In Progress: Unwind - Thread Generator
+--->
 
 <div align="center">
   <h3>Contacts:</h3>
