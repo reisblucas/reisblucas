@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>I'm Lucas, 24 yo, based in Sao Paulo - Brazil!</h3>
+  <h3>I'm Lucas, based in Sao Paulo - Brazil!</h3>
 </div>
 
 - 💬 I like to talk and study about programming, technology, investments and games!
